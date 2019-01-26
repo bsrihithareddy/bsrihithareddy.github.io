@@ -1,8 +1,8 @@
 # Site settings
-title:       Sanga Sai Nath
-email:       sainath.sanga@outlook.com
-author:      Sanga Sai Nath
-description: "Personal page of Sanga Sai Nath."
+title:       Srihitha Reddy
+email:       bsrihithareddy@gmail.com
+author:      Srihitha Reddy
+description: "Personal page of Srihitha Reddy."
 baseurl:     ""
 url:         ""
 timezone: 	 Asia/Calcutta
@@ -21,7 +21,7 @@ show_social_icons:  true
 disqus_shortname:
 
 # Social icons
-github_username: SangaSaiNath
+github_username: 
 stackoverflow_id:
 twitter_username: sanga_sainath
 google_plus_id:
